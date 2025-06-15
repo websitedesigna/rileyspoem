@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riley Oliver - Poetry Collection</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✨</text></svg>">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <div class="nav-brand">
+                <a href="#home" class="brand-link">
+                    <span class="brand-icon">✨</span>
+                    Riley Oliver Poetry
+                </a>
+            </div>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#genres" class="nav-link">Genres</a></li>
+                <li><a href="#featured" class="nav-link">Featured</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+            </ul>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </nav>
+        <a href="#featured" id="gtp" class="nav-link">Go To Poems!</a>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="home" class="hero">
+            
+            <div class="hero-content">
+                <h1 class="hero-title">Raw Emotions Through Poetry</h1>
+                <p class="hero-subtitle">Original works by Riley Oliver - exploring life's deepest feelings through verse</p>
+                <div class="hero-search">
+                    <input type="text" placeholder="Search by emotion, theme, or keyword..." class="search-input" id="searchInput">
+                    <button class="search-btn" id="searchBtn">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="m21 21-4.35-4.35"></path>
+                        </svg>
+                        Search
+                    </button>
+                </div>
+                <div class="copyright-notice">
+                    <p>© All poems are original works by Riley Oliver. Unauthorized copying or reproduction is strictly prohibited.</p>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="floating-quote">
+                    <blockquote>
+                        "The poet's eye, in a fine frenzy rolling, doth glance from heaven to earth, from earth to heaven."
+                        <cite>— William Shakespeare, A Midsummer Night’s Dream</cite>
+                    </blockquote>
+                </div>
+            </div>
+        </section>
+
+        <!-- Genres Section -->
+        <section id="genres" class="genres">
+            <div class="container">
+                <h2 class="section-title">Explore by Emotion</h2>
+                <div class="genres-grid">
+                    <div class="genre-card uplifting" data-genre="uplifting">
+                        <div class="genre-icon">☀️</div>
+                        <h3>Uplifting</h3>
+                        <p>Poetry that inspires hope and resilience</p>
+                        <span class="poem-count">0 poems</span>
+                    </div>
+                    <div class="genre-card sad" data-genre="sad">
+                        <div class="genre-icon">💧</div>
+                        <h3>Raw & Real</h3>
+                        <p>Honest verses about life's struggles</p>
+                        <span class="poem-count">3 poems</span>
+                    </div>
+                    <div class="genre-card nostalgic" data-genre="nostalgic">
+                        <div class="genre-icon">🍂</div>
+                        <h3>Nostalgic</h3>
+                        <p>Reflections on childhood and lost innocence</p>
+                        <span class="poem-count">2 poems</span>
+                    </div>
+                    <div class="genre-card motivational" data-genre="motivational">
+                        <div class="genre-icon">🔥</div>
+                        <h3>Motivational</h3>
+                        <p>Finding strength through adversity</p>
+                        <span class="poem-count">1 poem</span>
+                    </div>
+                    <div class="genre-card peaceful" data-genre="peaceful">
+                        <div class="genre-icon">🕊️</div>
+                        <h3>Peaceful</h3>
+                        <p>Serene verses for quiet moments</p>
+                        <span class="poem-count">0 poems</span>
+                    </div>
+                    <div class="genre-card romantic" data-genre="romantic">
+                        <div class="genre-icon">💕</div>
+                        <h3>Romantic</h3>
+                        <p>Love and relationships explored</p>
+                        <span class="poem-count">0 poems</span>
+                    </div>
+                    <div class="genre-card angry" data-genre="angry">
+                        <div class="genre-icon">⚡</div>
+                        <h3>Intense</h3>
+                        <p>Powerful emotions and raw feelings</p>
+                        <span class="poem-count">2 poems</span>
+                    </div>
+                    <div class="genre-card hopeful" data-genre="hopeful">
+                        <div class="genre-icon">🌟</div>
+                        <h3>Hopeful</h3>
+                        <p>Looking forward despite the darkness</p>
+                        <span class="poem-count">1 poem</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Featured Poems -->
+        <section id="featured" class="featured">
+            <div class="container">
+                <h2 class="section-title">Featured Poems</h2>
+                <div class="featured-filter">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="sad">Raw & Real</button>
+                    <button class="filter-btn" data-filter="nostalgic">Nostalgic</button>
+                    <button class="filter-btn" data-filter="angry">Intense</button>
+                    <button class="filter-btn" data-filter="hopeful">Hopeful</button>
+                    <button class="filter-btn" data-filter="motivational">Motivational</button>
+                </div>
+                <div class="poems-grid" id="featuredPoems">
+                    <!-- Poems will be dynamically loaded here -->
+                </div>
+                <div class="no-results" id="noResults" style="display: none;">
+                    <div class="no-results-content">
+                        <div class="no-results-icon">📝</div>
+                        <h3>No poems found</h3>
+                        <p>Try adjusting your search or filter criteria</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about">
+            <div class="container">
+                <div class="about-content">
+                    <h2 class="section-title">About Riley Oliver</h2>
+                    <p class="about-text">
+                        Riley Oliver writes from the heart, transforming personal struggles into powerful poetry that resonates with raw authenticity. 
+                        Each poem is a journey through real emotions - from the depths of pain to moments of hope and self-discovery. 
+                        This collection represents original, deeply personal work that speaks to the human experience without filter or pretense.
+                    </p>
+                    <div class="stats">
+                        <div class="stat">
+                            <span class="stat-number">Countless</span>
+                            <span class="stat-label">Original Poems</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">8</span>
+                            <span class="stat-label">Emotional Genres</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">1</span>
+                            <span class="stat-label">Authentic Voice</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">∞</span>
+                            <span class="stat-label">Real Feelings</span>
+                        </div>
+                    </div>
+                    <div class="copyright-statement">
+                        <h3>Copyright Notice</h3>
+                        <p>All poems featured on this website are original works created by Riley Oliver. These poems are protected by copyright law and may not be reproduced, distributed, or used without explicit written permission from the author. Any unauthorized copying, sharing, or commercial use is strictly prohibited and may result in legal action.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <span class="brand-icon">✨</span>
+                    Riley Oliver Poetry
+                </div>
+                <div class="footer-links">
+                    <a href="#home">Home</a>
+                    <a href="#genres">Genres</a>
+                    <a href="#featured">Featured</a>
+                    <a href="#about">About</a>
+                </div>
+                <div class="footer-social">
+                    <span>Original poetry by Riley Oliver</span>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Riley Oliver. All poems are original works and protected by copyright. Unauthorized reproduction prohibited.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Poem Modal -->
+    <div id="poemModal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose">&times;</button>
+            <div id="poemContent">
+                <h2 class="modal-title">Poem Title</h2>
+                <p class="modal-author">By Riley Oliver</p>
+                <div class="modal-poem-content">
+                    Poem content will appear here
+                </div>
+                <div class="modal-poem-info">
+                    <span class="modal-genre">Genre</span>
+                    <span class="modal-read-time">X min read</span>
+                </div>
+                <div class="modal-copyright">
+                    <p><strong>© Riley Oliver</strong> - This poem is original work protected by copyright. Unauthorized copying or reproduction is strictly prohibited.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Spinner -->
+    <div class="loading-spinner" id="loadingSpinner">
+        <div class="spinner"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
