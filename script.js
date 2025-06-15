@@ -61,8 +61,7 @@ it's still tough, don't get me wrong
 some days feel heavy, some nights too long  
 but I've got a chance now, a place to belong  
 and for once in my life — I don't feel wrong
-
-Credits to The Key Education Centre (PRU) Gosport 151, Tukes Avenue, Gosport PO13 0SG`
+The Key Education Center Gosport.`
             },
             "after-the-storm": {
                 title: "After the Storm",
