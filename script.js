@@ -171,15 +171,6 @@ not you, not me
 as light as a feather  
 till you realise you're weak  
 
-then you think nah, fuck all that  
-start walking around being a twat  
-beating people up, but you know you're not all that  
-so you calm down a bit  
-try being nice  
-friendly and polite  
-you gain more from this  
-but only for a bit  
-
 then you start getting shit  
 from people you cared for  
 but did they care for you  
