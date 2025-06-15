@@ -10,83 +10,11 @@ class PoetryApp {
     // Poems data embedded in the application
     getPoemsData() {
         return {
+            
+                
 
-            "this-aint-just-a-school": {
-                title: "This Ain't Just a School",
-                author: "Riley Oliver",
-                genre: ["hopeful", "real", "school"],
-                readTime: "5 min read",
-                excerpt: "this ain't just a school — it's something more\na place you land when you're kicked out the door...",
-                content: `this ain't just a school — it's something more  
-a place you land when you're kicked out the door  
-not for grades or gold stars or praise  
-but 'cause your life took a darker phase  
 
-people say it's full of bad kids and thugs  
-kids that sell bits or live off drugs  
-but walk through the gates and look again  
-you’ll see broken hearts trying to mend  
-
-see lads with anger, girls who fight  
-kids that can't sleep through the night  
-not bad people — just misunderstood  
-trying to do better, if only they could  
-
-teachers that listen, not just shout  
-they ask how you feel — not what you're about  
-they've seen the worst, they've seen the tears  
-they still show up, year after year  
-
-you walk in with rage built deep in your chest  
-but you walk out thinking maybe I can rest  
-a smile from staff, just one small chat  
-can change how you feel — and that's a fact  
-
-you learn more here than English or math  
-you learn who you are, and how not to crash  
-you learn how to talk, how to breathe, how to cope  
-you learn there's still something called hope  
-
-'cause they don't see you as a problem to solve  
-they see a life that's trying to evolve  
-a kid with pain, but still with light  
-a kid who's learning how to fight right  
-
-I used to hate school, I really did  
-I felt like a failure, a dumb little kid  
-but here I feel like someone sees me  
-not what I've done — but what I can be  
-
-it's still tough, don't get me wrong  
-some days feel heavy, some nights too long  
-but I've got a chance now, a place to belong  
-and for once in my life — I don't feel wrong
-The Key Education Center Gosport.`
-            },
-            "after-the-storm": {
-                title: "After the Storm",
-                author: "Riley Oliver",
-                genre: ["peaceful"],
-                readTime: "3 min read",
-                excerpt: "i’ve shouted at skies and cursed the rain\nwalked through lightning just to feel the pain...",
-                content: `i’ve shouted at skies and cursed the rain  
-walked through lightning just to feel the pain  
-but when the storm passed, and the air got clean  
-i saw what the chaos really means  
-
-it means you're alive, and you made it through  
-all that wreckage couldn’t shatter you  
-the clouds rolled back, and i saw the blue  
-not in the sky — it was inside too  
-
-now i walk slow, breathe with care  
-listen to silence and just be there  
-not running, not hiding, not chasing highs  
-just watching calm in the open skies  
-
-life ain’t perfect but it’s soft today  
-and that’s enough — i’ll be okay`
-            },
+            
             "darkness": {
                 title: "Darkness",
                 author: "Riley Oliver",
@@ -289,34 +217,91 @@ and what you are today
 is something great
 `
             },
-
-            "open-window": {
-                title: "Open Window",
+            "after-the-storm": {
+                title: "After the Storm",
                 author: "Riley Oliver",
-                genre: ["hopeful"],
-                readTime: "4 min read",
-                excerpt: "i opened the window just to feel the breeze\nand it hit me — healing starts with these...",
-                content: `i opened the window just to feel the breeze  
-and it hit me — healing starts with these  
-not big changes or massive leaps  
-but small soft moments your spirit keeps  
+                genre: ["peaceful"],
+                readTime: "3 min read",
+                excerpt: "i’ve shouted at skies and cursed the rain\nwalked through lightning just to feel the pain...",
+                content: `i’ve shouted at skies and cursed the rain  
+walked through lightning just to feel the pain  
+but when the storm passed, and the air got clean  
+i saw what the chaos really means
 
-a quiet morning, a deeper breath  
-a laugh that cuts through fear of death  
-a call from a mate who just checks in  
-a day you don’t need a drink to win  
+it means you're alive, and you made it through  
+all that wreckage couldn’t shatter you  
+the clouds rolled back, and i saw the blue  
+not in the sky — it was inside too  
 
-i used to think i'd never feel whole  
-but now i see cracks let light in the soul  
-and yeah, i still fall, still feel the weight  
-but now i stand up — and that's feeling great  
+now i walk slow, breathe with care  
+listen to silence and just be there  
+not running, not hiding, not chasing highs  
+just watching calm in the open skies 
+i still feel storms, they come and go
+but now i know they won’t steal my glow
+i can stand tall, even when it’s rough
+i can face the thunder, i can face the tough
+i can sit with the rain, let it wash away
+i can feel the pain, but i’ll be okay
+i can find peace in the darkest night
+i can hold on tight, and i’ll be alright
+i can see the beauty in the mess i made 
 
-every dark night ends in day  
-and even pain has things to say  
-so now when i feel lost or slow  
-i open a window — and let it go`
+life ain’t perfect but it’s soft today  
+and that’s enough — i’ll be okay`
             },
-                        "what-happened": {
+            "this-aint-just-a-school": {
+                title: "This Ain't Just a School",
+                author: "Riley Oliver",
+                genre: ["hopeful", "real", "school"],
+                readTime: "5 min read",
+                excerpt: "this ain't just a school — it's something more\na place you land when you're kicked out the door...",
+                content: `this ain't just a school — it's something more  
+a place you land when you're kicked out the door  
+not for grades or gold stars or praise  
+but 'cause your life took a darker phase  
+
+people say it's full of bad kids and thugs  
+kids that sell bits or live off drugs  
+but walk through the gates and look again  
+you’ll see broken hearts trying to mend  
+
+see lads with anger, girls who fight  
+kids that can't sleep through the night  
+not bad people — just misunderstood  
+trying to do better, if only they could  
+
+teachers that listen, not just shout  
+they ask how you feel — not what you're about  
+they've seen the worst, they've seen the tears  
+they still show up, year after year  
+
+you walk in with rage built deep in your chest  
+but you walk out thinking maybe I can rest  
+a smile from staff, just one small chat  
+can change how you feel — and that's a fact  
+
+you learn more here than English or math  
+you learn who you are, and how not to crash  
+you learn how to talk, how to breathe, how to cope  
+you learn there's still something called hope  
+
+'cause they don't see you as a problem to solve  
+they see a life that's trying to evolve  
+a kid with pain, but still with light  
+a kid who's learning how to fight right  
+
+I used to hate school, I really did  
+I felt like a failure, a dumb little kid  
+but here I feel like someone sees me  
+not what I've done — but what I can be  
+
+it's still tough, don't get me wrong  
+some days feel heavy, some nights too long  
+but I've got a chance now, a place to belong  
+and for once in my life — I don't feel wrong`
+            },
+          "what-happened": {
                 title: "What Happened?",
                 author: "Riley Oliver",
                 genre: ["nostalgic", "hopeful", "sad"],
@@ -393,6 +378,33 @@ all been hurt deep and saddened
 
 so let me ask you again — what really happened?`
             },
+            "open-window": {
+                title: "Open Window",
+                author: "Riley Oliver",
+                genre: ["hopeful"],
+                readTime: "4 min read",
+                excerpt: "i opened the window just to feel the breeze\nand it hit me — healing starts with these...",
+                content: `i opened the window just to feel the breeze  
+and it hit me — healing starts with these  
+not big changes or massive leaps  
+but small soft moments your spirit keeps  
+
+a quiet morning, a deeper breath  
+a laugh that cuts through fear of death  
+a call from a mate who just checks in  
+a day you don’t need a drink to win  
+
+i used to think i'd never feel whole  
+but now i see cracks let light in the soul  
+and yeah, i still fall, still feel the weight  
+but now i stand up — and that's feeling great  
+
+every dark night ends in day  
+and even pain has things to say  
+so now when i feel lost or slow  
+i open a window — and let it go`
+            },
+              
             "ashes-and-light": {
                 title: "Ashes and Light",
                 author: "Riley Oliver",
@@ -444,7 +456,50 @@ but i’m stitched together, soul by soul
 and i’ll keep walking, even if it’s slight  
 from the ashes i rise — into the light`
             },
+            "why": {
+                title: "Why",
+                author: "Riley Oliver",
+                genre: ["sad", "nostalgic"],
+                readTime: "6 min read",
+                excerpt: "why do i feel like i’m always alone\nlike no one can see the pain that i own...",
+                content: `why do i feel like i’m always alone
+                like no one can see the pain that i own
+                why do i wake up with tears in my eyes
+                shouting into a void that never replies
 
+
+                why do i feel like i’m stuck in a cage
+                like every day’s a battle, just a different stage
+                fake smile fake laugh, just a mask that i wear
+                pretending i’m fine when i’m really not there
+                zoning out loosing touch with reality
+                drowning in thoughts that no one can see
+
+
+                why do i feel like i’m stuck in a loop
+                like every day’s the same, just a different group
+                why do i feel like i’m screaming inside
+                but no one can hear me, no one can guide
+                why do i feel like i’m lost in the dark
+                looking for myself but can’t find my old spark
+
+
+                look at my reflection, it’s a stranger i see
+                WHO is this person staring back at me?
+                he looks so broken, so lost and so sad
+                no light in his eyes, just a shadow of what he had
+                feels like i’m drowning in a sea of despair
+                like no one can see me, or no one cares
+
+
+                so loud but so silent, my mind’s a mess
+                thoughts racing fast, can’t get any rest
+                and even when i try my best
+                it still turns out an utter mess.
+            
+                
+                `
+            },
             "light-leaks-in": {
                 title: "Light Leaks In",
                 author: "Riley Oliver",
@@ -470,6 +525,31 @@ it’s not perfect, it’s not clean
 but this is the best i’ve ever been  
 no high, no smoke, no lies to spin  
 just raw truth and light leaking in`
+            },
+            "Relapsed": {
+                title: "Relapsed",
+                author: "Riley Oliver",
+                genre: ["sad", "nostalgic"],
+                readTime: "5 min read",
+                excerpt: "I thought I was done, thought I was free\nbut the shadows came creeping back for me...",
+                content: `I thought I was done, thought I was free
+                but the shadows came creeping back for me
+                my mind was racing, my heart felt tight
+                I tried to fight it, but I lost that night
+                I picked up the paper, rolled it up tight
+                the smoke filled my lungs, it felt so right
+                but deep down I lost the fight
+                I thought I was strong, thought I could cope
+                but the darkness came back, and I lost all hope
+                I thought I was healed, thought I was whole
+                but the demons came back, and they took control
+                I tried to run, tried to escape
+                but the pain was too much, I couldn’t take
+                I fell back into the same old trap
+                the drugs, the drink, the endless gap
+                I thought I was done, thought I was through
+                but the shadows came back, and they pulled me too
+                I tried I tried I promise i did `
             },
                 "mirrors": {
                 title: "Mirrors",
