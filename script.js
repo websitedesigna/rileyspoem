@@ -171,6 +171,15 @@ not you, not me
 as light as a feather  
 till you realise you're weak  
 
+then you think nah, fuck all that  
+start walking around being a twat  
+beating people up, but you know you're not all that  
+so you calm down a bit  
+try being nice  
+friendly and polite  
+you gain more from this  
+but only for a bit  
+
 then you start getting shit  
 from people you cared for  
 but did they care for you  
@@ -241,6 +250,7 @@ i can see the beauty in the mess i made
 life ain’t perfect but it’s soft today  
 and that’s enough — i’ll be okay`
             },
+            
             "this-aint-just-a-school": {
                 title: "This Ain't Just a School",
                 author: "Riley Oliver",
@@ -292,6 +302,7 @@ some days feel heavy, some nights too long
 but I've got a chance now, a place to belong  
 and for once in my life — I don't feel wrong`
             },
+            
           "what-happened": {
                 title: "What Happened?",
                 author: "Riley Oliver",
@@ -368,7 +379,9 @@ all been through shit again and again
 all been hurt deep and saddened  
 
 so let me ask you again — what really happened?`
-            },
+          }, 
+
+            
             "open-window": {
                 title: "Open Window",
                 author: "Riley Oliver",
@@ -540,7 +553,15 @@ just raw truth and light leaking in`
                 the drugs, the drink, the endless gap
                 I thought I was done, thought I was through
                 but the shadows came back, and they pulled me too
-                I tried I tried I promise i did `
+                I tried I tried I promise i did
+                but just one more time i wanted to feel like a kid
+                I wanted to laugh, wanted to smile
+                wanted to forget all the pain for a while
+                but the high was short, and the crash was hard
+                I felt so lost, felt so scarred
+                I thought I was strong, thought I could fight
+                but the darkness came back, and it took my light.
+                `
             },
                 "mirrors": {
                 title: "Mirrors",
