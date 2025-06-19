@@ -144,7 +144,7 @@ I'll love him till I die and that's facts from my mouth
 my mum though, she wasn't really there  
 a mum but not a mother, she'd zone out and stare  
 she loved drugs and clubs and roadmen and thugs  
-all this shit, but not her son  
+all this shit, but not her son
 and I know it hurt her, but it hurt me more  
 she'd make me sleep on the kitchen floor  
 I mean I knew she loved me, but why'd she love drugs more  
@@ -301,6 +301,80 @@ it's still tough, don't get me wrong
 some days feel heavy, some nights too long  
 but I've got a chance now, a place to belong  
 and for once in my life — I don't feel wrong`
+            },
+                        "Shitty System": {
+                title: "Shitty System",
+                author: "Riley Oliver",
+                genre: ["angry", "real"],
+                readTime: "6 min read",
+                excerpt: "been through the system, seen it all\nfrom broken homes to empty halls\nwhere kids are lost, and dreams are sold\nin a world that’s cold, where hope feels old...",
+                content: `been through the system, seen it all
+                from broken homes to empty halls
+                where kids are lost, and dreams are sold
+                in a world that’s cold, where hope feels old
+
+                sit you down and tell you what’s right
+                but they don’t see the pain, the endless fight
+                they preach about change, about making it fair
+                but they don’t know the weight that we bear
+                the thoughts we drown in bottles and smoke
+                anything at all just to cope
+
+                they say “get help,” but where do we go?
+                when the system’s a joke, and the trust is low
+                theyll move you around like a pawn in their game
+                and after that, you won't be the same
+                shuffle you here, shuffle you there
+                never ask how you feel, cos they dont care
+
+                they’ll label you troubled, a kid with no hope
+                but all i needed was a method to cope
+                a way to block out the pain and the lies
+                a way to escape the endless goodbyes
+
+                so i turned to the streets, to the drugs and the drink
+                thought it was freedom, but it’s just a sink
+                i grew dependent on the highs and the lows
+                lost in a cycle that nobody knows
+                but deep down i knew it wasn’t the way
+                that this life was more than just a game to play
+
+                but i still got spat on, still got pushed around
+                still got told that i’d never be found
+                i tried everything to make my mind clear
+                but the system just laughed, said “you’re not sincere”
+
+                they don’t see the battles we fight every day
+                they don’t see the tears that we hide away
+                they don’t see the kids who just want to be free
+                they don’t see the pain that’s buried so deep
+
+                the nights id cry, the days id scream
+                the times i felt worthless, never seen
+                the system’s a joke, a broken machine
+                that chews us up and spits us out clean
+
+                social workers who don’t give a damn
+                therapists who just follow the plan
+                they’ll nod and smile, but they don’t understand
+                the weight of the world that we carry in hand
+
+                they’ll tell you to breathe, to count to ten
+                but when you’re drowning, it’s hard to pretend
+                that everything’s fine, that you’ll be okay
+                when the system’s a mess, and you’re lost in the fray
+
+                as your eyes start to close and your mind starts to fade
+                you realise its all bullshit, its just a charade
+                nobody cares, no one but you
+                and the system just laughs, says “what can you do?”
+
+                so you fight through the darkness, through the pain and the lies
+                just to find a way to survive
+                to find a way to live, to find a way to be
+                in a world that’s broken, where hope feels like a dream.
+                `
+    
             },
             
           "what-happened": {
