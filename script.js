@@ -18,7 +18,7 @@ class PoetryApp {
             "darkness": {
                 title: "Darkness",
                 author: "Riley Oliver",
-                genre: ["sad", "angry", "nostalgic"],
+                genre: ["sad", "angry", "nostalgic", "personalFavourites"],
                 readTime: "6 min read",
                 excerpt: "as darkness consumes us each and every one\nwe feel distant and empty, nothing seems fun\nthink back to childhood, playing in the sun...",
                 content: `as darkness consumes us each and every one  
@@ -122,7 +122,7 @@ but give it an hour — fuck that, give it ten
             "alone": {
                 title: "Alone",
                 author: "Riley Oliver",
-                genre: ["sad", "angry", "motivational"],
+                genre: ["sad", "angry", "motivational", "personalFavourites"],
                 readTime: "8 min read",
                 excerpt: "This is nothing but real\nnothing but hurt\nunderstand how i feel\njust to kick me in the dirt...",
                 content: `this is nothing but real  
@@ -171,24 +171,25 @@ not you, not me
 as light as a feather  
 till you realise you're weak  
 
-then you think nah, fuck all that  
-start walking around being a twat  
-beating people up, but you know you're not all that  
-so you calm down a bit  
-try being nice  
-friendly and polite  
-you gain more from this  
-but only for a bit  
+then you think nah, fuck it all
+start acting out, prepare to fall
+throwing punches but you know the truth
+you’re not that tough, just lost your youth
 
-then you start getting shit  
-from people you cared for  
-but did they care for you  
-they talk behind your back and be so rude  
-and then look you in your eyes and say I care about you  
-no you don't, you never did  
-but I did, and now I feel like shit  
-feel like a knob 'cause you trusted that guy  
-feel so wrong 'cause it felt so right  
+so you slow down, try a new way
+being kind, polite each day
+for a while it seems to pay
+but good vibes never seem to stay
+
+then the ones you trusted most
+turn their backs, become your ghost
+whisper lies behind your name
+look you dead in eyes, pretend no shame
+
+they say they care, but it’s a lie
+you trusted them, now wonder why
+you feel small, like you’ve been played
+hurt by love that never stayed  
 
 but it's calm, you know everything's alright  
 and here you are again in the middle of the night  
@@ -220,7 +221,7 @@ is something great
             "after-the-storm": {
                 title: "After the Storm",
                 author: "Riley Oliver",
-                genre: ["peaceful"],
+                genre: ["peaceful", "personalFavourites"],
                 readTime: "3 min read",
                 excerpt: "i’ve shouted at skies and cursed the rain\nwalked through lightning just to feel the pain...",
                 content: `i’ve shouted at skies and cursed the rain  
@@ -250,11 +251,177 @@ i can see the beauty in the mess i made
 life ain’t perfect but it’s soft today  
 and that’s enough — i’ll be okay`
             },
-            
+                        "Smoking Kills": {
+                title: "Smoking Kills",
+                author: "Riley Oliver",
+                genre: ["sad", "angry", "motivational", "personalFavourites"],
+                readTime: "5 min read",
+                excerpt: "Inhale the smoke, just to cope\n climbing the rope, til i loose all hope...",
+                content: `Inhale the smoke,
+just to cope
+climbing the rope,
+til I lose all hope
+higher and higher
+no end in sight
+no ones beside me
+through the coldest night
+
+A lover not a fighter
+but how else can one bear
+in a world so vicious
+so hollow so unfair
+not even my fault
+yet still I bleed
+screaming in silence
+but no one sees the need
+
+So I grab the papers
+and a bit of green
+roll up a dream
+just to feel serene
+flick the lighter
+close the door
+inhale peace
+then crave some more
+
+Smoke curls upward
+my thoughts sink down
+in this cloudy room
+I wear my crown
+eyes go red
+mind turns still
+float from pain
+against my will
+
+I lay in bed
+numb but free
+finally rest
+finds its way to me
+tight lungs tight chest
+but this is peace
+in this poisoned breath
+I find release
+
+They see a mess
+but I see a break
+a moment of silence
+no pill could fake
+not chasing a high
+just running from low
+where shadows are thick
+and no light will go
+
+I dont want to be this
+but what choice did I get
+they handed me pain
+and called it a debt
+I pay it in smoke
+in minutes and hours
+I drown out the shame
+in this faded power
+
+The world kept spinning
+I stood still
+trying to feel something
+but nothing will
+so I fill my lungs
+with something warm
+in a cold cold world
+that breaks my form
+
+I tried to cry
+but the tears dried up
+I poured my soul
+into this bitter cup
+sip by sip
+I lose my fight
+but gain some calm
+in the dead of night
+
+Used to dream of better days
+now I just dream of haze
+the light I chased
+was just a flame
+burned me up
+and left me lame
+
+No therapy
+no guiding hand
+just shaky feet
+and broken plans
+so I talk to the ceiling
+the walls the smoke
+tell em all the things
+I never spoke
+
+This isnt living
+but its not quite death
+its pausing life
+with every breath
+they say its wrong
+that I should quit
+but they dont feel
+this bottomless pit
+
+So I write in ash
+on my windowpane
+my hopes my fears
+my silent pain
+the world outside
+dont know my fight
+they see me high
+not the sleepless nights
+
+But here in the clouds
+I find my grace
+no judgment no noise
+just empty space
+where my thoughts dont scream
+and my chest dont burn
+where peace comes fast
+but never returns
+
+So pass me the grinder
+the paper the flame
+lets spark the silence
+forget my name
+inhale the truth
+exhale the lie
+pretend Im fine
+and wonder why
+
+Im not trying to glorify pain
+Im just trying to explain
+why I run to the smoke
+when it starts to rain
+when the thunder of life
+wont let me be
+I build my shelter
+and float out to sea
+
+The rooms still quiet
+my eyes half closed
+in this fleeting stillness
+Ive finally dozed
+dont wake me up
+unless you care
+Im tired of trying
+in a world unfair
+
+Just let me drift
+let me float awhile
+let me forget
+this cruel exile
+maybe someday
+Ill rise and fight
+but not tonight
+just pass the light
+                `
+            },
             "this-aint-just-a-school": {
                 title: "This Ain't Just a School",
                 author: "Riley Oliver",
-                genre: ["hopeful", "real", "school"],
+                genre: ["hopeful", "real", "school", "personalFavourites"],
                 readTime: "5 min read",
                 excerpt: "this ain't just a school — it's something more\na place you land when you're kicked out the door...",
                 content: `this ain't just a school — it's something more  
@@ -265,7 +432,7 @@ but 'cause your life took a darker phase
 people say it's full of bad kids and thugs  
 kids that sell bits or live off drugs  
 but walk through the gates and look again  
-you’ll see broken hearts trying to mend  
+you’ll see broken hearts trying to mend
 
 see lads with anger, girls who fight  
 kids that can't sleep through the night  
@@ -302,80 +469,80 @@ some days feel heavy, some nights too long
 but I've got a chance now, a place to belong  
 and for once in my life — I don't feel wrong`
             },
-                        "Shitty System": {
-                title: "Shitty System",
-                author: "Riley Oliver",
-                genre: ["angry", "real"],
-                readTime: "6 min read",
-                excerpt: "been through the system, seen it all\nfrom broken homes to empty halls\nwhere kids are lost, and dreams are sold\nin a world that’s cold, where hope feels old...",
-                content: `been through the system, seen it all
-                from broken homes to empty halls
-                where kids are lost, and dreams are sold
-                in a world that’s cold, where hope feels old
+"Shitty System": {
+    title: "Shitty System",
+    author: "Riley Oliver",
+    genre: ["angry", "real",],
+    readTime: "6 min read",
+    excerpt: "been through the system seen it all\nfrom broken homes to empty halls\nwhere kids are lost and dreams are sold\nin a world thats cold where hope feels old",
+    content: `been through the system seen it all
+    from broken homes to empty halls
+    where kids are lost and dreams are sold
+    in a world thats cold where hope feels old
 
-                sit you down and tell you what’s right
-                but they don’t see the pain, the endless fight
-                they preach about change, about making it fair
-                but they don’t know the weight that we bear
-                the thoughts we drown in bottles and smoke
-                anything at all just to cope
+    they sit you down and say whats right
+    but they dont see the pain the fight
+    they talk about change about being fair
+    but they dont feel the weight we bear
+    the thoughts we drown in bottles and smoke
+    anything at all just to cope
 
-                they say “get help,” but where do we go?
-                when the system’s a joke, and the trust is low
-                theyll move you around like a pawn in their game
-                and after that, you won't be the same
-                shuffle you here, shuffle you there
-                never ask how you feel, cos they dont care
+    they say get help but where do we go
+    when the systems a joke and the trust is low
+    they move you around like a pawn in a game
+    and after all that youre never the same
+    shuffle you here shuffle you there
+    never ask how you are cos they dont care
 
-                they’ll label you troubled, a kid with no hope
-                but all i needed was a method to cope
-                a way to block out the pain and the lies
-                a way to escape the endless goodbyes
+    theyll call you troubled say you wont cope
+    but all i needed was a way to hold hope
+    a way to block out the pain and the lies
+    a way to stop all the long goodbyes
 
-                so i turned to the streets, to the drugs and the drink
-                thought it was freedom, but it’s just a sink
-                i grew dependent on the highs and the lows
-                lost in a cycle that nobody knows
-                but deep down i knew it wasn’t the way
-                that this life was more than just a game to play
+    so i turned to the streets to the drugs and the drink
+    thought it was freedom but its just a sink
+    i grew addicted to the highs and lows
+    lost in a cycle that nobody knows
+    but deep down i knew it wasnt the way
+    life meant more than surviving the day
 
-                but i still got spat on, still got pushed around
-                still got told that i’d never be found
-                i tried everything to make my mind clear
-                but the system just laughed, said “you’re not sincere”
+    still got spat on still got pushed around
+    still got told id never be found
+    i tried everything to clear my head
+    but the system just laughed said youre misled
 
-                they don’t see the battles we fight every day
-                they don’t see the tears that we hide away
-                they don’t see the kids who just want to be free
-                they don’t see the pain that’s buried so deep
+    they dont see the fights we face each day
+    they dont see the tears we hide away
+    they dont see the kids just trying to be free
+    they dont see the pain buried deep in me
 
-                the nights id cry, the days id scream
-                the times i felt worthless, never seen
-                the system’s a joke, a broken machine
-                that chews us up and spits us out clean
+    the nights id cry the days id scream
+    the times i felt worthless unseen
+    the system is broken a joke so mean
+    it chews us up and spits us clean
 
-                social workers who don’t give a damn
-                therapists who just follow the plan
-                they’ll nod and smile, but they don’t understand
-                the weight of the world that we carry in hand
+    social workers who dont give a damn
+    therapists stuck to the same old plan
+    they nod and smile like they understand
+    but they cant feel the weight in our hands
 
-                they’ll tell you to breathe, to count to ten
-                but when you’re drowning, it’s hard to pretend
-                that everything’s fine, that you’ll be okay
-                when the system’s a mess, and you’re lost in the fray
+    they say to breathe to count to ten
+    but when youre drowning its hard to pretend
+    that everything is fine that youll be okay
+    when the system fails you every day
 
-                as your eyes start to close and your mind starts to fade
-                you realise its all bullshit, its just a charade
-                nobody cares, no one but you
-                and the system just laughs, says “what can you do?”
+    as your eyes close and your thoughts fade
+    you see the truth its all just a charade
+    nobody cares no one but you
+    and the system just laughs says what can you do
 
-                so you fight through the darkness, through the pain and the lies
-                just to find a way to survive
-                to find a way to live, to find a way to be
-                in a world that’s broken, where hope feels like a dream.
-                `
-    
-            },
+    so you fight through the dark the pain and the lies
+    just to find one reason to stay alive
+    to find a way to live a way to be
+    in a broken world where hope feels like a dream
+    `
+},
+
             
           "what-happened": {
                 title: "What Happened?",
@@ -455,7 +622,60 @@ all been hurt deep and saddened
 so let me ask you again — what really happened?`
           }, 
 
-            
+            "Damage Grown": {
+    title: "Damage Grown",
+    author: "Riley Oliver",
+    genre: ["raw", "real", "sad"],
+    readTime: "5 min read",
+    excerpt: "life hit hard before i knew my name\nno guide no hand just fire and pain\nmatured in wounds not in years\ncarried scars deeper than fears",
+    content: `
+life hit hard before i knew my name  
+no guide no hand just fire and pain  
+matured in wounds not in years  
+carried scars deeper than fears  
+
+days were battles nights were war  
+had no choice but to endure more  
+childhood lost in broken fights  
+shadows swallowed all my nights  
+
+they say time heals but time just flies  
+leaving behind what never dies  
+damage taught me how to stand  
+stronger now by my own hand  
+
+didnt grow up in a perfect place  
+learned to hide pain behind my face  
+life was rough no easy stage  
+maturity earned not from age  
+
+every cut every bruise i show  
+is a story only few will know  
+not a weakness but my proof  
+forged like steel beneath the roof  
+
+friends were few but lessons loud  
+rose from ashes far from proud  
+wisdom born from hurt and loss  
+every scar a heavy cost  
+
+some grow slow some grow fast  
+mine was shaped by storms that last  
+damage deep but growth sincere  
+maturity earned through every tear  
+
+now i walk with steady pace  
+marked by life but full of grace  
+learned to bend but never break  
+a soul rebuilt from every ache  
+
+life is rough its never kind  
+but strength is what damage designed  
+maturity a path untold  
+written in scars not in gold  
+`
+},
+
             "open-window": {
                 title: "Open Window",
                 author: "Riley Oliver",
@@ -607,7 +827,7 @@ just raw truth and light leaking in`
             "Relapsed": {
                 title: "Relapsed",
                 author: "Riley Oliver",
-                genre: ["sad", "nostalgic"],
+                genre: ["sad", "nostalgic", "personalFavourites"],
                 readTime: "5 min read",
                 excerpt: "I thought I was done, thought I was free\nbut the shadows came creeping back for me...",
                 content: `I thought I was done, thought I was free
@@ -727,7 +947,7 @@ before this world stopped hearing me`
             "cycle": {
                 title: "Cycle",
                 author: "Riley Oliver",
-                genre: ["sad", "angry", "motivational"],
+                genre: ["sad", "angry", "motivational", "personalFavourites"],
                 readTime: "6 min read",
                 excerpt: "it starts with a breath, then turns to a sigh\nthen turns to a thought like “what if i die?”...",
                 content: `it starts with a breath, then turns to a sigh  
@@ -1261,7 +1481,7 @@ still choosing life after all these years`
         const genreCounts = {};
         
         // Initialize counts
-        ['uplifting', 'sad', 'nostalgic', 'motivational', 'peaceful', 'romantic', 'angry', 'hopeful'].forEach(genre => {
+        ['uplifting', 'sad', 'nostalgic', 'motivational', 'peaceful', 'romantic', 'angry', 'hopeful', 'personalFavourites'].forEach(genre => {
             genreCounts[genre] = 0;
         });
         
