@@ -117,7 +117,7 @@ but give it an hour — fuck that, give it ten`
             "alone": {
                 title: "Alone",
                 author: "Riley Oliver",
-                genre: ["sad", "angry", "motivational"],
+                genre: ["sad", "angry", "motivational", "personalFavourites"],
                 readTime: "8 min read",
                 excerpt: "This is nothing but real\nnothing but hurt\nunderstand how i feel\njust to kick me in the dirt...",
                 content: `this is nothing but real  
@@ -248,7 +248,7 @@ and that's enough — i'll be okay`
             "smoking-kills": {
                 title: "Smoking Kills",
                 author: "Riley Oliver",
-                genre: ["sad", "angry", "motivational"],
+                genre: ["sad", "angry", "motivational", "personalFavourites"],
                 readTime: "5 min read",
                 excerpt: "Inhale the smoke, just to cope\n climbing the rope, til i loose all hope...",
                 content: `Inhale the smoke,
@@ -465,7 +465,7 @@ and for once in my life — I don't feel wrong`
             "shitty-system": {
                 title: "Shitty System",
                 author: "Riley Oliver",
-                genre: ["angry"],
+                genre: ["angry", "personalFavourites"],
                 readTime: "6 min read",
                 excerpt: "been through the system seen it all\nfrom broken homes to empty halls\nwhere kids are lost and dreams are sold\nin a world thats cold where hope feels old",
                 content: `been through the system seen it all
